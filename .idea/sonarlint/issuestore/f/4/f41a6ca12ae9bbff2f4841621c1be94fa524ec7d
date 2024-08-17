@@ -1,0 +1,22 @@
+
+	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(çÖÓşúÿÿÿÿ8¦ˆŠ”2J$f18c9a97-7762-4d20-912f-7d72129ca404
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8©ˆŠ”2J$7781b90e-0f4e-458d-b77c-79e2731788b2
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8©ˆŠ”2J$5028a902-22eb-4548-b085-e8820f53b8b4
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªˆŠ”2J$ffd9bc88-1d70-4477-ba21-8892df5f915e
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªˆŠ”2J$3596be8d-696e-4a66-8e0c-843c79f972ec
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8ªˆŠ”2J$36d3b370-d0ae-485e-b437-ea050886b698
+n
+java:S1452("&Remove usage of generic wildcard type.(çÖÓşúÿÿÿÿ8²ˆŠ”2J$ce796957-3b5d-4eda-9005-39fc5f5ccb66
+m	java:S106)"+Replace this use of System.out by a logger.(Á…ËÕ8´ˆŠ”2J$1e01258a-ded7-4cf1-97de-2a9a45195024
+r	java:S106*"+Replace this use of System.out by a logger.(ÃÂÆïùÿÿÿÿ8µˆŠ”2J$e10312e9-f2dc-4911-8a6a-cb23cce4050f
+r	java:S1064"+Replace this use of System.out by a logger.(¯Èş®øÿÿÿÿ8¸ˆŠ”2J$e9d10f87-04d7-4713-a3b4-f08aa86fb8c8
+r	java:S1066"+Replace this use of System.out by a logger.(îûÅ›øÿÿÿÿ8»ˆŠ”2J$fc14f224-f0c3-4ecd-b918-3f8365a00fa0
+ˆ
+java:S4684E"@Replace this persistent entity with a simple POJO or DTO object.(˜æ·Òÿÿÿÿÿ8¿ˆŠ”2J$6223721c-ab59-4594-901b-47629debe0fe
+n
+java:S1452E"&Remove usage of generic wildcard type.(˜æ·Òÿÿÿÿÿ8ÀˆŠ”2J$80983691-d666-4ea0-baa2-d77656fc9b77
